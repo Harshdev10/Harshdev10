@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshdev Tripathi
-- 👀 I’m interested in Web development and App development
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on web development projects...
+- 👀 I’m interested in FullStack development and App development
+- 🌱 I’m currently learning FullStack development
+- 💞️ I’m looking to collaborate on FullStack development projects...
 - 📫 How to reach me - email address: harshdevtripathi1234@gmail.com
 
 <!---
